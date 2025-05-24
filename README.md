@@ -76,6 +76,10 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 ![Screenshot 2025-05-24 214738](https://github.com/user-attachments/assets/274675a5-ad75-4fba-879d-02b9587772b0)
 ![Screenshot 2025-05-24 214718](https://github.com/user-attachments/assets/9ae49007-70b1-4164-a8b0-be61b8b5e633)
 
+
+https://github.com/user-attachments/assets/6666f9c7-6c7b-41f8-83c1-cd1da8fdab03
+
+
 ## 🙌 Acknowledgments
 
 Thanks to the open-source community and frameworks like React, Next.js, Tailwind, and TypeScript for making rapid development possible.
