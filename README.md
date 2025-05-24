@@ -68,23 +68,7 @@ pnpm dev
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## 📌 Upcoming Enhancements
-
-- Authentication (Admin/Candidate login)
-- Persistent database storage (MongoDB, PostgreSQL)
-- Rich test analytics
-- Timer and question randomization
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
+![Screenshot 2025-05-24 214702](https://github.com/user-attachments/assets/63e8ba75-2620-40d1-b5df-1c5306d24e2f)
 
 ## 🙌 Acknowledgments
 
