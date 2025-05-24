@@ -69,6 +69,12 @@ pnpm dev
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser.
 ![Screenshot 2025-05-24 214702](https://github.com/user-attachments/assets/63e8ba75-2620-40d1-b5df-1c5306d24e2f)
+![Screenshot 2025-05-24 215031](https://github.com/user-attachments/assets/96c5817d-9e5a-43e7-8ac5-47dbbfc41aea)
+![Screenshot 2025-05-24 215016](https://github.com/user-attachments/assets/9c4f1649-e20e-41bf-acbf-0016423a51b2)
+![Screenshot 2025-05-24 214959](https://github.com/user-attachments/assets/caabf845-9059-4eba-8fc9-c957488bcc7c)
+![Screenshot 2025-05-24 214942](https://github.com/user-attachments/assets/15f80177-14b2-47c8-91cb-aab687d346c7)
+![Screenshot 2025-05-24 214738](https://github.com/user-attachments/assets/274675a5-ad75-4fba-879d-02b9587772b0)
+![Screenshot 2025-05-24 214718](https://github.com/user-attachments/assets/9ae49007-70b1-4164-a8b0-be61b8b5e633)
 
 ## 🙌 Acknowledgments
 
